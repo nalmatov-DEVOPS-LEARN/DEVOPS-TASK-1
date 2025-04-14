@@ -182,9 +182,6 @@ dist
 # *.iml
 # *.ipr
 
-# Packages
-package-*.json
-
 # CMake
 cmake-build-*/
 
